@@ -9,7 +9,7 @@ This is a Node.js API client written in TypeScript that uses the rest API at alq
 ### Work in Progress!
 
 ### Installation
-The API Client is a composer package. To use it, you need to run the following:
+The API Client is a npm package. To use it, you need to run the following in your project:
 ```
 yarn add alquran-api-client
 ```
@@ -23,7 +23,6 @@ npm i --save alquran-api-client
 #### Instantiate the Client
 ```
 import AlQuranApiClientNode from 'alquran-api-client';
-
 ```
 
 #### Getting an Ayah
